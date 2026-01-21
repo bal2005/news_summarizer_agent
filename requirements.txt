@@ -1,0 +1,6 @@
+ollama
+langchain-community
+langchain-ollama
+langchain-core
+langgraph
+nltk
